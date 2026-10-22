@@ -1,0 +1,6 @@
+{
+  "name": "WebClone - Website Scraper & Cloner",
+  "description": "Minimalist dark website cloner and asset downloader. Clone websites, inspect assets, and download complete zip packages. Credits @AlcaW44.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
